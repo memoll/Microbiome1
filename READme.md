@@ -2,6 +2,10 @@
 - Mona Parizadeh
 - November 2017
 
+#Git info
+<p>git --version</p>
+git --help
+
 #Configuration:
 git config --global user.name “username”
 git config --global user.email “toto@email.com”
@@ -33,7 +37,7 @@ git commit -m "start Microbiome project"
 #Sending to the remote server
 git remote add origin http://github.com/memoll/Microbiome1/
 git push origin master #to send my modifications to the remote server
-# if push doesn't work, we need to set url to the new repository:
+### if push doesn't work, we need to set url to the new repository:
 git remote –v #to verify
 git remote set-url origin http://github.com/memoll/Microbiome1/ #copy the http or ssh from the server
 
