@@ -3,16 +3,16 @@
 - November 2017
 
 ## Git info
-git --version
-git --help
+- git --version
+- git --help
 
 ## Configuration:
-git config --global user.name “username”
-git config --global user.email “toto@email.com”
-git config color.ui "auto"
-git config core.editor "nano -w"
-git remote set-url origin http://github.com/username/
-git config --list
+- git config --global user.name “username”
+- git config --global user.email “toto@email.com”
+- git config color.ui "auto"
+- git config core.editor "nano -w"
+- git remote set-url origin http://github.com/username/
+- git config --list
 
 ## Initiation (in bash)
 git init Myproject #iniates and creates a new repository
