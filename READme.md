@@ -38,12 +38,12 @@
 - git commit -m "start Microbiome project"
 
 ## Sending to the remote server
-- git remote add origin http://github.com/memoll/Microbiome1/
+- git remote add origin http://github.com/memoll/Microbiome/
 - git push origin master #to send my modifications to the remote server
 
 - If push doesn't work, we need to set url to the new repository:
 - git remote –v #to verify
-- git remote set-url origin http://github.com/memoll/Microbiome1/ #copy the http or ssh from the server
+- git remote set-url origin http://github.com/memoll/Microbiome/ #copy the http or ssh from the server
 
 ## Pull file from the remote server
 - create new file on github (Protocol)
